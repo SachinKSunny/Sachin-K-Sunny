@@ -3,12 +3,13 @@
 The link to my website for the course Telling Stories with Data is given below:
 https://sachinksunny.github.io/DataViz/
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
-Name     : Sachin Kalayathankal Sunny
-Andrew ID: ssunny
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
+
+# About Me
+Hi everyone. I am Sachin K Sunny(he/his pronouns), a student of Masters in Information Systems Management: Business Intelligence and Data Analytics in Carnegie Mellon University.
 
 
 
