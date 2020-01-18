@@ -1,7 +1,7 @@
 # Online Portfolio
 
 The link to my website for the course Telling Stories with Data is given below:
-[DataViz](https://sachinksunny.github.io/DataViz/)
+[Sachin K Sunny](https://sachinksunny.github.io/DataViz/)
 
 # About Me
 <img src="https://user-images.githubusercontent.com/56980097/72670390-d6707680-3a0a-11ea-89d9-3c61ea723e84.png" alt="drawing" width="150"/>
