@@ -4,7 +4,7 @@ The link to my website for the course Telling Stories with Data is given below:
 https://sachinksunny.github.io/DataViz/
 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](C:/Users/Sachin/Downloads/Display Photo.png)
 Format: ![Alt Text](url)
 
 
