@@ -1,7 +1,7 @@
 # Online Portfolio
 
 The link to my website for the course Telling Stories with Data is given below:
-[Sachin K Sunny](https://sachinksunny.github.io/DataViz/)
+[Sachin K Sunny](https://sachinksunny.github.io/Sachin-K-Sunny/)
 
 # About Me
 <img src="https://user-images.githubusercontent.com/56980097/72670390-d6707680-3a0a-11ea-89d9-3c61ea723e84.png" alt="drawing" width="150"/>
@@ -19,4 +19,5 @@ Hi everyone, I am Sachin K Sunny and I use he/his pronouns. I am currently pursu
 Since I'll be using the power of data to guide, persuade and convince stakeholders in a project to make business decisions, I want to be able to make them see the impact any such decision would bring through impactful vizualisations. A picture is worth a thousand words and I want to be able to show the right picture and say the right thousand words that go with the picture to be a succesful Business Analyst.
 
 # Portfolio
-Watch out for this space. This is where all my cool visualizations will be posted.
+Controlling Colour Exercise: 
+Data Vizulisation Critique: 
