@@ -1,6 +1,6 @@
 # Online Portfolio
 
-The link to my website for the course Telling Stories with Data is given below:
+The link to my website for the course Telling Stories with Data is: 
 [Sachin K Sunny](https://sachinksunny.github.io/Sachin-K-Sunny/)
 
 # About Me
