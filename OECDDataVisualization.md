@@ -22,16 +22,18 @@ Here the countires are grouped by Continents using the colours.
 The width of the graph at any point represents the Debt to GDP ratio of the country.
 
 ## Critique
-The bar chart lacks perspective and doesn't represent the evolution of the Debt to GDP Ratio with time. The beeswarm overcomes this problem but shows a lot of data without
-any classification or grouping . Also estimating radius or comparing it with others aisn't straightforward in a beeswarm plot.
+The bar chart lacks perspective and doesn't represent the evolution of the Debt to GDP Ratio with time. The beeswarm overcomes 
+this problem but shows a lot of data without any classification or grouping. Also estimating radius or comparing it with others 
+isn't straightforward in a beeswarm plot.
 
-The area chart groups the countries by continents and offers a much more continuos version visualization of data. 
+The area chart groups the countries by continents and offers a much more continuous version for visualization of data. 
 The width at each point represents the Debt to GDP ratio for that country and because of the continuous nature of the graph,
-it's easy to compare data points than the above two visualizations.
+it's easy to compare data points than the above two visualizations. To improve the haphazard ordering of data in the beeswarm 
+plot(circles with small radius are interspersed between those with higher radius), the data has been ordered in ascending 
+order of total value of the ratios for each country. This creates a more visually pleasing and continuous look to the visualization.
 
 ## Citation
 The data used in this page is taken from: [OECD Government Debt Data](https://data.oecd.org/gga/general-government-debt.htm)
-
 \[OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2020)\]
 
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
