@@ -22,3 +22,5 @@ Since I'll be using the power of data to guide, persuade and convince stakeholde
 [Controlling Color Exercise](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083419/Controlling.Color.pdf)
 
 [Data Visualization Critique #1](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083587/Sachin.Kalayathankal.Sunny.-.Critique.1_.Economist.bar.chart.The.Good.Charts.Matrix.xlsx)
+
+[OECD Data Visualization](/OECD Data Visualization.md)
