@@ -36,4 +36,7 @@ order of total value of the ratios for each country. This creates a more visuall
 The data used in this page is taken from: [OECD Government Debt Data](https://data.oecd.org/gga/general-government-debt.htm)
 \[OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2020)\]
 
+## Visualization using Tableau
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1536px; height: 669px;'><object class='tableauViz' width='1536' height='669' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sunnysdatavisualizations' /><param name='name' value='HighlightTable&#47;GDPtoDebtRatio' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
