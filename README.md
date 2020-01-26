@@ -23,4 +23,4 @@ Since I'll be using the power of data to guide, persuade and convince stakeholde
 
 [Data Visualization Critique #1](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083587/Sachin.Kalayathankal.Sunny.-.Critique.1_.Economist.bar.chart.The.Good.Charts.Matrix.xlsx)
 
-[OECD Data Visualization](https://github.com/SachinKSunny/Sachin-K-Sunny/OECDDataVisualization.md)
+[OECD Data Visualization](/OECDDataVisualization.md)
