@@ -57,7 +57,7 @@ From the above table and visualization, you can see that the petrol prices have 
 
 Data Sources:
 1. [EIA](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RBRTE&f=D)
-2. [IOCL]https://iocl.com/Products/PetrolDomesticPrices.aspx
+2. [IOCL](https://iocl.com/Products/PetrolDomesticPrices.aspx)
 3. [DNA India](https://www.dnaindia.com/business/report-from-may-2014-to-april-2018-chart-of-petrol-and-diesel-prices-under-modi-govt-2606993)
 4. [IOCL Latest](https://www.iocl.com/Product_PreviousPrice/PetrolPreviousPriceDynamic.aspx)
 
