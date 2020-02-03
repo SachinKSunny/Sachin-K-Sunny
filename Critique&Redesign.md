@@ -13,20 +13,22 @@ Although this is a step in the right direction, this chart also has a lot of pro
 The observations on the data, it's positive and negative aspects have been summarized below categorized on each metric:
 
 Usefulness- Petrol is the primary fuel used in Transportation in India and almost every sector's and/or family's budget is affected by its price.
+
 Completeness- There is a lot of incomplete information in this visualization viz., What's the unit of crude oil? What's the dollar to INR currency exchange rate? Why are only 4 discrete points considered?
+
 Perceptibility- Inorder to avoid guessing the size of bars, Values are shown and the percentage changes too. Also, there's no legend, colors aren't chosen wisely and the information on this page is cluttered.
+
 Truthfulness- The values shown are correct and the size of bars looks accurate which is a major improvement on the graph it's trying to provide a rebuttal for.
+
 Intuitiveness- Why use a bar graph to show percentage changes over time? The intended message that the difference in the price of crude oil and petrol is worse after 2014 is not highlighted here.
+
 Aesthetics- Why is the color of the bars changing over time? The visualization is trying too hard to force the idea on the viewer with too many numbers and as a result, the graph doesn’t look aesthetically pleasing.
+
 Engagement- Unnecessary titles and pictures around the graph space take the engagement away from the graph. The makers of the graph stuck with the same design they were trying to critique and failed to deliver a strong message.
 
-The graph takes a step in the right direction by including the international crude oil price and fixing the skewed 4th bar in the original graph. But it uses the same bad design to critique the visualization by Bharatiya Janata Party. It also doesn't consider the changing USD-INR Rate and tries to compare dollars with rupees as a constant across time. Additionally, it also doesn't specify the units of comparison.
+The graph takes a step in the right direction by including the international crude oil price and fixing the skewed 4th bar in the original graph. But it uses the same bad design to critique the visualization by Bharatiya Janata Party. It also doesn't consider the changing USD-INR Rate and tries to compare dollars with rupees as a constant across time. Additionally, it also doesn't specify the units of comparison. I would redesign the graph by showing a continuous trend line of international crude oil prices, petrol prices in India and the difference in prices between the two, highlighting the increase in differences post 2014 when the Bharatiya Janata Party came to power.
 
-I would redesign the graph by showing a continuous trend line of international crude oil prices, petrol prices in India and the difference in prices between the two, highlighting the increase in differences post 2014 when the Bharatiya Janata Party came to power.
-
-The primary audience for this tool are the citizens of India. 
-
-The visualization wasn't effective in reaching out to the audience because they redesigned the original bad visualization by sticking to the same design and adding the International Crude Oil price variable. Although this moves in the right direction, it fails to convincingly deliver the argument that the % increase of prices under the Bharatiya Janata Party's rule has been drastic compared to the crude oil prices in the international marketplace.
+The primary audience for this tool are the citizens of India. The visualization wasn't effective in reaching out to the audience because they redesigned the original bad visualization by sticking to the same design and adding the International Crude Oil price variable. Although this moves in the right direction, it fails to convincingly deliver the argument that the % increase of prices under the Bharatiya Janata Party's rule has been drastic compared to the crude oil prices in the international marketplace.
 
 On a scale of 1-10 with 1 being the lowest, I would say that this method scores a 9 because it considers a visualization from many different angles and helps us understand its effectiveness across all these realms. This is a welcome addition from the initial critique method that only had 2- Contextual awareness and Design Execution.
 
