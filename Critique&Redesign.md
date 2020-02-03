@@ -50,10 +50,10 @@ From showing the wireframe to ~4 people and gathering feedback I recognized that
 
 *The international Crude Oil prices have been converted into Price in Rupees per litre using USD-INR spot prices 
 
-                          |          | Avg Difference | Range of Difference | Range of USD-INR Rate |
-                          |----------|----------------|---------------------|-----------------------|
-                          | Congress | 26.26          | 23.23-28.05         | 40.24-61.14           |
-                          | BJP      | 38.81          | 28.07-41.88         | 61.14-69.92           |
+|          | Avg Difference | Range of Difference | Range of USD-INR Rate |
+|----------|----------------|---------------------|-----------------------|
+| Congress | 26.26          | 23.23-28.05         | 40.24-61.14           |
+| BJP      | 38.81          | 28.07-41.88         | 61.14-69.92           |
 
 From the above table and visualization, you can see that the petrol prices have drastically been increasing under the BJP Rule even though international Crude Oil prices(converted into Price in Rupees per litre using USD-INR spot prices) have been declining. This is due to the increased taxes being imposed on the sale of petrol- a government decision- and gradual weakening of the INR as compared to USD which can be directly attributed to the government's economic policies. So even though the percentage change has been decreasing like in the initial graph provided by the BJP and the INC, the absolute value of change has been increasing drastically, putting a lot of Indian lives under greater financial burden.
 
