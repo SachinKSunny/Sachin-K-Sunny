@@ -56,9 +56,9 @@ From showing the wireframe to ~4 people and gathering feedback I recognized that
 From the above table and visualization, you can see that the petrol prices have drastically been increasing under the BJP Rule even though international Crude Oil prices have been declining. This is due to the increased taxes being imposed on the sale of petrol- a government decision- and gradual weakening of the INR as compared to USD which can be directly attributed to the government's economic policies. So even though the percentage change has been decreasing like in the initial graph provided by the BJP and the INC, the absolute value of change has been increasing drastically, putting a lot of Indian lives under greater financial burden.
 
 Data Sources:
-1. https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RBRTE&f=D
-2. https://iocl.com/Products/PetrolDomesticPrices.aspx
-3. https://www.dnaindia.com/business/report-from-may-2014-to-april-2018-chart-of-petrol-and-diesel-prices-under-modi-govt-2606993
-4. https://www.iocl.com/Product_PreviousPrice/PetrolPreviousPriceDynamic.aspx
+1. [EIA](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RBRTE&f=D)
+2. [IOCL]https://iocl.com/Products/PetrolDomesticPrices.aspx
+3. [DNA India](https://www.dnaindia.com/business/report-from-may-2014-to-april-2018-chart-of-petrol-and-diesel-prices-under-modi-govt-2606993)
+4. [IOCL Latest](https://www.iocl.com/Product_PreviousPrice/PetrolPreviousPriceDynamic.aspx)
 
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
