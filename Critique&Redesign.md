@@ -30,10 +30,6 @@ The graph takes a step in the right direction by including the international cru
 
 The primary audience for this tool are the citizens of India. The visualization wasn't effective in reaching out to the audience because they redesigned the original bad visualization by sticking to the same design and adding the International Crude Oil price variable. Although this moves in the right direction, it fails to convincingly deliver the argument that the % increase of prices under the Bharatiya Janata Party's rule has been drastic compared to the crude oil prices in the international marketplace.
 
-On a scale of 1-10 with 1 being the lowest, I would say that this method scores a 9 because it considers a visualization from many different angles and helps us understand its effectiveness across all these realms. This is a welcome addition from the initial critique method that only had 2- Contextual awareness and Design Execution.
-
-I would add a measure for the intent behind the visualization and how effective it was at capturing that intent. Here the intent behind the graph is to sway public opinion and is very effective in doing that by muddling the graph with a comic picture of the opposition leader and bold fonts.
-
 I would let the data speak for itself and create a visualization that lets people come to their own conclusion. An effective public swaying of opinion requires education of the masses and that comes from their own understanding. The visualization should tell the convincing story, not the text in and around the visualization. Also, the visualization can be split into two eras(before and after 2014) to show the stark contrast in numbers under two different regimes.
 
 ## Wireframe Solution
