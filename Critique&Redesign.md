@@ -38,7 +38,7 @@ I would let the data speak for itself and create a visualization that lets peopl
 
 ## Wireframe Solution
 I envisioned a wireframe solution as shown below to fix the graph posted by the Indian National Congress Party:
-[Initial Wireframe Solution](<img src="https://user-images.githubusercontent.com/56980097/73618194-e59f1900-45f3-11ea-99a1-a76ab7df90c7.PNG" alt="drawing"/>
+<img src="https://user-images.githubusercontent.com/56980097/73618194-e59f1900-45f3-11ea-99a1-a76ab7df90c7.PNG" alt="drawing"/>
 
 ## Insights from Feedback
 From showing the wireframe to ~4 people and gathering feedback I recognized that I had to remove the horizontal dotted lines that were trying to highlight the increase under BJP Rule. I also got the feedback to reduce the different variations of colour use so as to be colour blind firendly. I was also asked to specify Congress party as the Indian National Cpngress Party to avoid any consuions about other Congress parites across the world.A short description of what the chart was trying to convey was also suggested to be added at the end to enhance interpretability. One positive aspect across all the feedback received was that they all understood that the rise in Prices in Petrol was higher under the BJP Rule than under the INC Rule.
@@ -47,5 +47,18 @@ From showing the wireframe to ~4 people and gathering feedback I recognized that
 
 <div class='tableauPlaceholder' id='viz1580687305841' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetrolPricesinIndia&#47;PetrolinIndia&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PetrolPricesinIndia&#47;PetrolinIndia' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PetrolPricesinIndia&#47;PetrolinIndia&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1580687305841');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
+|          | Avg Difference | Range of Difference | Range of USD-INR Rate |
+|----------|----------------|---------------------|-----------------------|
+| Congress | 26.26          | 23.23-28.05         | 40.24-61.14           |
+| BJP      | 38.81          | 28.07-41.88         | 61.14-69.92           |
+
+From the above table and visualization, you can see that the petrol prices have drastically been increasing under the BJP Rule even though international Crude Oil prices have been declining. This is due to the increased taxes being imposed on the sale of petrol- a government decision- and gradual weakening of the INR as compared to USD which can be directly attributed to the government's economic policies. So even though the percentage change has been decreasing like in the initial graph provided by the BJP and the INC, the absolute value of change has been increasing drastically, putting a lot of Indian lives under greater financial burden.
+
+<Data Sources:
+1. https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RBRTE&f=D
+2. https://iocl.com/Products/PetrolDomesticPrices.aspx
+3. https://www.dnaindia.com/business/report-from-may-2014-to-april-2018-chart-of-petrol-and-diesel-prices-under-modi-govt-2606993
+4. https://www.iocl.com/Product_PreviousPrice/PetrolPreviousPriceDynamic.aspx>
 
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
