@@ -25,4 +25,4 @@ Since I'll be using the power of data to guide, persuade and convince stakeholde
 
 [OECD Data Visualization](/OECDDataVisualization.md)
 
-[Critique & Redesign](/Critique & Redesign.md)
+[Critique & Redesign](/Critique%20&%20Redesign.md)
