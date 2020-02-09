@@ -21,9 +21,9 @@ Since I'll be using the power of data to guide, persuade and convince stakeholde
 # Portfolio
 [Controlling Color Exercise](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083419/Controlling.Color.pdf)
 
-[Crafting for Clarity.pdf](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177547/Crafting.for.Clarity.pdf)
+[Crafting for Clarity](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177547/Crafting.for.Clarity.pdf)
 
-[Choosing Chart Types.pdf](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177548/Choosing.Chart.Types.pdf)
+[Choosing Chart Types](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177548/Choosing.Chart.Types.pdf)
 
 [Data Visualization Critique #1](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083587/Sachin.Kalayathankal.Sunny.-.Critique.1_.Economist.bar.chart.The.Good.Charts.Matrix.xlsx)
 
