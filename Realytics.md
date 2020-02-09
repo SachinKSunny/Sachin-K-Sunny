@@ -1,0 +1,8 @@
+## Project Outline
+
+The Realytics project aims at bridging the gaps in the Real Estate Market. Whether you're a potential home owner looking to find the right house, a real estate developer who's looking to invest in the city or a restaurant/small business owner trying to set up shop, we help you find the perfect spot in the town of Pittsburgh. Do not worry, we are not trying to sell you land or a house. We're just trying to help you make an informed decision when you decide to go ahead.
+
+We understand that such a huge decision comes with huge risk and apprehensiveness. Searching for a perfect investment can be exhausting and time consuming and you might have to spend hours and hours on the internet trying to accumulate more information so that you can make an informed decision. And most of the time, you might find yourself lacking some ke information about a certain region that you're looking for. This is where the value addition by Realytics comes in.
+
+We've accumulated data from various sources and provide it all in one place to help you out with your investment decision. We have collected and created the perfect investment index for you, and it's ranked by Zipcodes in Pittsburgh. The data we collect include Median Home Prices in Pittsburgh, Employment Statistics in and around Pittsburgh, a 30-day Crime Blotter and Building Permits that've been granted all over Pittsburgh. By weighing these 4 statistics based on the average requirements of a particular type of user, we determine rankings of various Zipcodes in Pittsburgh that tell you which regions are ripe for investment. This information will be provided to you in a diverging colour map of Pittsburgh for quick and easy access.
+
