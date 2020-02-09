@@ -14,6 +14,16 @@ The Realytics project aims at bridging the gaps in the Real Estate Market. Wheth
 
 3- This is where Realytics comes in(A new hope). Talk about the zipcode wise data we've collected so far and how we've catered the data to fit your investment needs. More weightage to home prices for home owners; more weightage to permits for commercial developers.
 
-4- Show the visualizations superimposed over a map of Pittsburgh in a diverging colour scheme to draw user Attention. Also show the top priorities for each user visualized for the user's top 3 Zipcodes.
+4- Show the visualizations superimposed over a map of Pittsburgh in a diverging colour scheme to draw user Attention. Also show the top priorities for each user visualized for the user's top 3 Zipcodes. A succint summary of the values of the attributes may also be provided.
+(Peak of happiness for the user at the solution to an important problem). A much more detailed explanation on how the ranking was computed can be added in this section too.
 
-5- 
+5- Call to action would be access to the whole dataset(which is publicly available) so that the user can get more information that's catered to his exact needs.
+
+# Initial sketches
+
+
+
+
+
+
+[<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
