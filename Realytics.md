@@ -23,7 +23,28 @@ The Realytics project aims at bridging the gaps in the Real Estate Market. Wheth
 
 
 
+# The Data
 
+For this project I download data from 4 main sources:
+
+1- Median House Prices from Zillow:
+Zillow provides the median house prices for a city broken down by zipcode for the current month. This data is available as an API in the follow link. I've written a Python script that pulls this data into an easy to use Excel sheet that we'll be using.
+[Zillow Data](https://www.zillow.com/webservice/GetRegionChildren.htm?zws-id=X1-ZWz18xjv6xav4b_3bebs&state=pa&city=pittsburgh&childtype=zipcode)
+
+2- Employment Statistics:
+The employment statistics for each county in Pittsburgh is pulled from the US Bureau of Labor Statistics. This is a good indicator of the economic development of the region and indirectly determines the rise/fall in housing prices over time. The data is directly available as a CSV download in the link below.
+[Employment Statistics](https://www.bls.gov/regions/mid-atlantic/news-release/unemployment_pittsburgh.htm)
+
+3- Building Permits:
+Ease of getting permits in a Zipcode might incentivise certain developers and commerical users to weight this data more in their ranking. It also acts as a good proxy for the economic growth of a region and is an indirect indicator of the GRP of the city. The data is publicly available at the below link.
+[Building Permit Data](https://data.wprdc.org/dataset/city-of-pittsburgh-building-permit-summary)
+
+4- Crime Data:
+Most home owners would like to invest in a low crime neighbourhood. This data will have a high weightage for residential users and small business owners as it determines the potential for further investment and growth of existing investment. The last 30 days data of the crime blotter that's provided by the Police is available publicly at the following link.
+[Crime Data](https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41cc-9099-cbc8a161924b)
+
+# Method and Medium
+The final project will be delivered on Shorthand, an easy to use Website creator. Shorthands scrollable interface and ease of incorporation of images will be an asset when trying to help nudge users a little bit toards their investement region.Shorthand's interface will also help strike a clear balance between the data and the story I'm trying to tell. I will be using Tableau to generate the visualizations required for the various user types. Excel will be used to combine and clean the data. Once the wireframes have been critiqued by multiple users- hopefully by home owners, developers and small business owners, I will be incorporating their feedback into my final project and catering to the user base by creating visualizations that create the most impact for each type of user.
 
 
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
