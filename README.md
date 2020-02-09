@@ -30,3 +30,5 @@ Since I'll be using the power of data to guide, persuade and convince stakeholde
 [5. OECD Data Visualization](/OECDDataVisualization.md)
 
 [6. Critique & Redesign](/Critique&Redesign.md)
+
+[7. Final Project](/Realytics.md)
