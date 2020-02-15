@@ -1,5 +1,4 @@
-# Project Outline
-### Part I- The Project Proposal
+# Part I- Project Outline
 ![](https://user-images.githubusercontent.com/56980097/74110944-a8400b80-4b5e-11ea-9ec5-366b286eb317.jpg) 
 
 A brief summary of the Realytics project, what it provides and the rough structure of the story being told is explained in the following sections.
