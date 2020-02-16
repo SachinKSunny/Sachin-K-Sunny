@@ -51,3 +51,13 @@ Permit Index- Sliding this scale to the right will give you the best zipcode wit
 
 ## Interview Transcripts and Feedback
 
+#### Q1: Do you understand what this tool is for? If not, what's confusing about it?
+
+#### Q2: What kind of user are you?
+
+#### Q3: Do you agree with the weightages of parameters specified? What would you change?
+
+#### Q4: What else do you wish you saw in this tool?
+
+#### Q5: Any other ideas or suggestions to make this tool better?
+
