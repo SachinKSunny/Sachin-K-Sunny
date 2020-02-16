@@ -1,9 +1,8 @@
 
 ## Wireframe
+![Wireframe Part 1](https://user-images.githubusercontent.com/56980097/74607257-5428b000-50a5-11ea-9fb2-790e98d34214.jpg)
 
-
-
-## Why does investment make sense?
+## Why does investment make sense now?
 
 The unemployment Rates in Allegheny County are very low. This tells us that the economy is doing well and that the people have a lot of purchasing power. All of it are good signs suggesting that ther Return on Investments would be high.
 
@@ -27,11 +26,28 @@ A commercial developer or apartment complex developer might be more interested i
 
 ## Restaurant & Small Business Owner
 
+A restaurant or small business owner on the other hand would be concerned about all 3 factors. They would want to invest in an area that's booming(meaning medium to high home prices), easy to obtain permits to operate their business and has a low crime rate so that they get more traffic/customers in their business. Based on these concerns a weight of 40% has been asigned to building permits, 30% to House prices and 30% to the Crime Index as shown below.
 
-## Customisable Graph
+<div class='tableauPlaceholder' id='viz1581865678833' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sm&#47;SmallBusinessUser&#47;AllinOne&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SmallBusinessUser&#47;AllinOne' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sm&#47;SmallBusinessUser&#47;AllinOne&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>
+
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1581865678833');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1477px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+## How to use the Tool
+
+The visualisations below is a fully customizable version of the ones above. Tweaking the parameter weights according to your requirements will give you a map of Pittsburgh with the best zipcodes for your investment.
+
+Negative Crime Index- Sliding this scale to the right will give you the best zipcode in terms of lowest crime rate
+House Price Index- Sliding this scale to the right will give you the best zipcode with the highest house prices
+Permit Index- Sliding this scale to the right will give you the best zipcode with the highest value of building permits
+
+## Customizable Graph
 
 <div class='tableauPlaceholder' id='viz1581818241599' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RealyticsInvestmentBuddy&#47;AllinOne&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RealyticsInvestmentBuddy&#47;AllinOne' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RealyticsInvestmentBuddy&#47;AllinOne&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1581818241599');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1477px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 
+## Wireframe Continued
+![Wireframe Part 2](https://user-images.githubusercontent.com/56980097/74607263-69054380-50a5-11ea-8060-e1a8bad5045f.jpg)
+
+## Interview Transcripts and Feedback
 
