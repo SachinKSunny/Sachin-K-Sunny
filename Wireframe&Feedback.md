@@ -1,5 +1,5 @@
 
-## Wireframe
+## Wireframe for Realytics- Your personalized investment tool
 ![Wireframe Part 1](https://user-images.githubusercontent.com/56980097/74607257-5428b000-50a5-11ea-9fb2-790e98d34214.jpg)
 
 ## Why does investment make sense now?
