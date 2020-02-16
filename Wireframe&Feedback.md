@@ -51,13 +51,80 @@ Permit Index- Sliding this scale to the right will give you the best zipcode wit
 
 ## Interview Transcripts and Feedback
 
+Process: I ask the interviewee to take a look at the wireframe and form their initial judgement. I later explain what I'm trying to do so that they have a more holistic picture in mind and note down their suggestions. Their responses are paraphrased below. I add additional actions from my end apart from the questions in paranthesis.
+
+### Interview #1- Local Restaurant Owner
+
 #### Q1: Do you understand what this tool is for? If not, what's confusing about it?
+#### Answer:
+Something related to Real Estate.
 
 #### Q2: What kind of user are you?
+#### Answer:
+I guess I'd be a mix of Residential & Small Business Owner. I might be able to use this tool to figure out where I can open up a restaurant or where I can buy a cheap house.
 
 #### Q3: Do you agree with the weightages of parameters specified? What would you change?
+#### Answer:
+The weightages are fine, but there are a lot of variables that're not included in this. Like when I'm buying a house, I'd look for it's proximity to a school, property taxes, etc. Actually, next to the house price, the school rating is the most important criteria for me.
 
 #### Q4: What else do you wish you saw in this tool?
+#### Answer:
+A map for the best school districts in Pittsburgh.
 
 #### Q5: Any other ideas or suggestions to make this tool better?
+#### Answer:
+Try to incorporate property taxes for business owners, proximity to school, etc.  
 
+### Interview #2- Local Resident(Pittsburgh Native for 38 years)
+
+#### Q1: Do you understand what this tool is for? If not, what's confusing about it?
+#### Answer:
+No, you tell me what this is for.
+
+(I describe the tool and how to use it)
+
+#### Q2: What kind of user are you?
+#### Answer:
+I don't think I'd be any kind of user. I don't have money to buy a house or start a restaurant/business.
+
+#### Q3: Do you agree with the weightages of parameters specified? What would you change?
+#### Answer:
+If I had money to buy a house, I'd be looking at other data like gentrification. This place used to be cheap all around. Now they're forcing people like us out of the places that we've lived in for years by raising the standard and cost of living. And it's not going to stop anytime soon. Look at what happened in Lawrenceville. If I had to, I'd buy land and not a house and then sell it for profit when the gentrification process reaches that part. But if I were buying  house, I'd look at factors and data that isn't available publicly. Like neighbours, access to elevator, options for grocery shopping etc. With public data, I'd look at schools that I can send my children to if I bought a house in a specific Zipcode. Also, areas with low crime rates are preferred.
+
+#### Q4: What else do you wish you saw in this tool?
+#### Answer:
+Land prices would be a welcome addition that indirectly determines the area's economic health. But ultimately, I'd base my investment decision on what I see, not what some tool tells me. I know where I want to invest and that's in Wilkinsburg. Because that's where the development is going to go. There are a lot of abandoned spaces and cheap houses there that you can revamp and sell for a profit.
+(I explain that's similar to what I'm doing as the revamp process includes getting Permits and that's how you can identify regions that're developing)
+Oh Okay. So I can use your tool to find other areas in Pittsburgh where they are issuing a lot of permits and then try to see if there are investment opportunities there. That's useful, I guess.
+
+#### Q5: Any other ideas or suggestions to make this tool better?
+#### Answer:
+None.
+
+### Interview #3- Local Business Owner of a grocery store
+
+#### Q1: Do you understand what this tool is for? If not, what's confusing about it?
+#### Answer:
+Let's talk about it. Why don't you explain it to me briefly and then I'll tell you what I think about it.  
+
+(I describe the tool and how to use it)
+
+#### Q2: What kind of user are you?
+#### Answer:
+Out of the 3 categories, I think I'll fall into the small business Owner Category.
+
+#### Q3: Do you agree with the weightages of parameters specified? What would you change?
+#### Answer:
+It doesn't matter. The market is saturated so much in Shadyside and Oakland regions. I would concentrate on buying a house in a place with a higher crime rate and hold on to it for a long time. Over time, the crime rate is bound to go down and the price would go up earning me a profit. (I explain how he can do that using my tool and he nods)
+
+#### Q4: What else do you wish you saw in this tool?
+#### Answer:
+I wish I didn't see the Permits. Getting permits is easy. Finding a good house/land to invest in is difficult.
+
+#### Q5: Any other ideas or suggestions to make this tool better?
+#### Answer:
+I don't have any. Wish you all the best with whatever you're trying to do.
+
+#### INFERENCES
+- Add an attribute for School Rating that the user can tweak based on his needs.
+- Permits are not at all very important for restaurant/small business owners. Chances are they're constrained by the budget available to them to even consider buying anything where the development is happening.
