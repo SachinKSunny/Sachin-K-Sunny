@@ -49,6 +49,11 @@ Permit Index- Sliding this scale to the right will give you the best zipcode wit
 ## Wireframe Continued
 ![Wireframe Part 2](https://user-images.githubusercontent.com/56980097/74607263-69054380-50a5-11ea-8060-e1a8bad5045f.jpg)
 
+
+## User Research Protocol
+
+I've identified 3 main categories of users the Realytics tool will be useful for. So I have tried to interview potential and current home owners to understand what factors are important to them when they consider buying a house. I have also tried to interview small business owners/restaurant owners to understand their perspective on the factors that affect their decision making when it comes to investing in a certain region. Sadly, I was unable to get a hold of any commercial real estate developers for their take. The interview script, inferences and changes made to the visualizations are listed down in the below sections.
+
 ## Interview Transcripts and Feedback
 
 Process: I ask the interviewee to take a look at the wireframe and form their initial judgement. I later explain what I'm trying to do so that they have a more holistic picture in mind and note down their suggestions. Their responses are paraphrased below. I add additional actions from my end apart from the questions in paranthesis.
