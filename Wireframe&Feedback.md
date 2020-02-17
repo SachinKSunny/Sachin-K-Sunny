@@ -130,6 +130,54 @@ I wish I didn't see the Permits. Getting permits is easy. Finding a good house/l
 #### Answer:
 I don't have any. Wish you all the best with whatever you're trying to do.
 
+### Interview #4- Pittsburgh Home Resident(20 years)
+
+#### Q1: Do you understand what this tool is for? If not, what's confusing about it?
+#### Answer:
+Yes it is a tool to rank zipcodes based on things like crime rate, housing prices etc. for investments. Why do you show the unemployment rate for all the counties just to show the zipcodes in Allegheny County?
+(I answer that I am bulding the tool only for zipcodes mainly in Allegheny County as that's where all the development is coming up and is the most sought out investment areas)
+(I describe the tool and how to use it in detail after this)
+
+#### Q2: What kind of user are you?
+#### Answer:
+I think I'll fall into the potential home owner category. So I would categorize myself as the Residential user.
+
+#### Q3: Do you agree with the weightages of parameters specified? What would you change?
+#### Answer:
+Yes it makes sense. But why does it not add up to a hundred?
+(Because I've build a simple tool which does not restrict the user from selecting weights that add up to 100. The calculation weighs each parameter based on the ratio of their weight to the sum of the weights chosen)
+
+#### Q4: What else do you wish you saw in this tool?
+#### Answer:
+The methodology for the calculations should be explained. How is crime calculated? School Rate? Permits? House Prices? How does the Ranking work? What if I want to look at the neighbouring zipcode for where the development is happening?
+
+(I'll add a section explaining methodology. You can hover your mouse over your top ranked zipcodes to figure out the zipcode closest to that one and focus your investment decisions on that area. My graphs show you details for the top 5 zipcodes. But my excel sheet shows you the complete data for your perusal.)
+
+#### Q5: Any other ideas or suggestions to make this tool better?
+#### Answer:
+Can you add more data about the whole of Allegheny County? Why are there gaps in between?
+(Adding more data isn't very feasible as most of the zipcodes are already saturated with investments. The gaps are there because the data is only shown for zipcodes with non zero house prices. Chances are no investment opportunities exist in the zipcodes with no colour.)
+
+I'd be more interested in the Age demographics per zipcode too. To add more variability, you could focus on what each age group would look for in a zipcode. Young people would be interested in the number of bars in the neighbourhood and older people would be more interested in the cultural spots, schools and restaurants around their area of interest.
+(If you zoom in enough, you'll be able to see the establishments in the zipcode you're considering. Also this tool is only a preliminary tool to help you narrow down the zipcodes in your search for an investment region. Further research on who your neighbours are going to be, how loud the neighbourhood gets on weekends, the number of stairs you've to climb, etc. has to be undertaken before finalizing any decision.)
+
+No other suggestions from my end. I love the fact that you can play aorund with the weights so as to generate a customized experience for each individual. I think that adds a lot of value to your whole project.
+
 #### INFERENCES
-- Add an attribute for School Rating that the user can tweak based on his needs.
+- Add an attribute for School Rating that the user can tweak based on his needs(It came up in two separate interviews).
 - Permits are not at all very important for restaurant/small business owners. Chances are they're constrained by the budget available to them to even consider buying anything where the development is happening.
+- Add section explaining the methodology of rank calculation(Lends more credibility to the visualizations).
+- Build the story around Allegheny County and explain why I am choosing to focus on it.
+- Adding land prices, property taxes per zipcode isn't feasible and doesn't add much value because they're implicitly taken care of in the other features like House prices and Building Permits.
+
+## Revised Wireframe and Visualizations
+- Elaborate more on why Allegheny County is focused on after the Unemployment Chart
+- Add a methodology and calculations section just after Unemployment Rate section to describe what goes on behind the screen.
+- Change weightages for Small Busines Owners. Downweight permits a bit and add more to crime weights.
+- Update visualizations with School Rating as shown below
+
+<div class='tableauPlaceholder' id='viz1581906243802' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RealyticsInvestmentBuddy2_0&#47;AllinOne&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RealyticsInvestmentBuddy2_0&#47;AllinOne' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RealyticsInvestmentBuddy2_0&#47;AllinOne&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1581906243802');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+
+[<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
