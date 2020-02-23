@@ -8,7 +8,11 @@ A few paragraphs that summarize the work you've done so far.  Talk about the des
 
 ## Link to Final Data Story
 
-Insert Shorthand link here
+[PART II- Design & User Research](https://carnegiemellon.shorthandstories.com/realytics/)
+
+<script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/realytics/"><h1>Realytics</h1><p>Your personalized real estate investment tool</p></div>
+
 
 ## References and Citations
 
