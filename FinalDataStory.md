@@ -14,5 +14,8 @@ Insert Shorthand link here
 
 Include Data Sources, Excel sheet used and citation sources for images used.
 
+<br>
+[PART I- The Idea](/REalytics.md)<br>
+[PART II- Design & User Research](/Wireframe&Feedback.md)<br>
 <br><br>
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
