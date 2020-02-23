@@ -19,7 +19,7 @@ A few paragraphs that summarize the work you've done so far.  Talk about the des
 Include Data Sources, Excel sheet used and citation sources for images used.
 
 <br>
-[PART I- The Idea](/Realytics.md)<br>
+[PART I- The Idea](/Realytics.md)<br><br>
 [PART II- Design & User Research](/Wireframe&Feedback.md)<br>
 <br><br>
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
