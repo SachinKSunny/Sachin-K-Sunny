@@ -1,3 +1,4 @@
+# Design and User Research
 
 ## Wireframe for Realytics- Your personalized investment tool
 ![Wireframe Part 1](https://user-images.githubusercontent.com/56980097/74607257-5428b000-50a5-11ea-9fb2-790e98d34214.jpg)
@@ -180,4 +181,5 @@ No other suggestions from my end. I love the fact that you can play aorund with 
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1581906243802');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 <br><br>
+[Part III: Final Data Story](/FinalDataStory.md)
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
