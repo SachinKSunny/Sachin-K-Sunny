@@ -51,9 +51,12 @@ Ease of getting permits in a Zipcode might incentivise certain developers and co
 Most home owners would like to invest in a low crime neighbourhood. This data will have a high weightage for residential users and small business owners as it determines the potential for further investment and growth of existing investment. The last 30 days data of the crime blotter that's provided by the Police is available publicly at the following link.<br/>
 [Crime Data](https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41cc-9099-cbc8a161924b)
 
+5- School Ratings:
+The 2019 School Rankings published by Niche is used to compute the school ratings. Most residential users value this attribute highly while trying to narrow downt their search to a zipcode. The rankings are extracted from the following link:
+[School Ratings](https://www.niche.com/places-to-live/search/zip-codes-with-the-best-public-schools/m/pittsburgh-metro-area/)
 
 An Excel sheet that has combined all the data available from these sources is available below:<br/>
-[Realytics Data Combined.xlsx](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4242512/Realytics.Final.Model.xlsx)
+[Realytics Final Model.xlsx](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4242512/Realytics.Final.Model.xlsx)
 
 
 ## Method and Medium
@@ -61,7 +64,7 @@ The final project will be delivered on Shorthand, an easy to use Website creator
 
 I will be using Tableau to generate the visualizations required for the various user types. Excel will be used to combine and clean the data. Once the wireframes have been critiqued by multiple users- hopefully by home owners, developers and small business owners, I will be incorporating their feedback into my final project and catering to the user base by creating visualizations that create the most impact for each type of user. Shorthand will also be used to generate the final presentation outline using certain picutres from the final site.
 
-[PART II- Design & User Research](/Wireframe&Feedback.md)
+[PART II- Design & User Research](/Wireframe&Feedback.md)<br>
 [PART III- Final Data Story](/FinalDataStory.md)
 
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
