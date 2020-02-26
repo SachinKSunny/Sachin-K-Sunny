@@ -44,7 +44,7 @@ The employment statistics for each county in Pittsburgh is pulled from the US Bu
 [Employment Statistics](https://www.bls.gov/regions/mid-atlantic/news-release/unemployment_pittsburgh.htm)
 
 3- Building Permits:
-Ease of getting permits in a Zipcode might incentivise certain developers and commerical users to weight this data more in their ranking. It also acts as a good proxy for the economic growth of a region and is an indirect indicator of the GRP of the city. The data is publicly available at the below link.<br/>
+Ease of getting permits in a Zipcode might incentivise certain developers and commerical users to weight this data more in their ranking. It also acts as a good proxy for the economic growth of a region and is an indirect indicator of the GDP of the city. The data is publicly available at the below link.<br/>
 [Building Permit Data](https://data.wprdc.org/dataset/city-of-pittsburgh-building-permit-summary)
 
 4- Crime Data:
