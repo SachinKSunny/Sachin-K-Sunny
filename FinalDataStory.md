@@ -1,10 +1,20 @@
 # Part III- Final Data Story
 
 ## Intended Audience
-A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
+This project came about because of the tunnel vision most people employ when it comes to making an investment decision. People often zero in on a Zip Code or a region and start scouting potential modes of investment before looking at the investment opportunities available across all the Regions. A generalised tool like Realytics that caters to a wide variety of audiences was challenging to come up with because of the difference in parameters that different users have while trying to find an investment option.
+
+But after extensive User research and scraping the internet for zip code wise data, I was able to create a customized visualization that caters to different kinds of users. This was achieved by identifying common themes across the intended audience and identifying variables that indirectly determine the return on Investment. By offering the user the flexibility to change the weights for all the parameters identified, they are able to look at and interpret a heat map of Pittsburgh based on their investment needs. Additional parameters like School Rating of a zip code was added in later as a response to the feedback received from an initial wireframe model of the Realytics tool. This tool could be used by residential users(home buyers/owners) who are looking for houses in Zipcodes where there are good schools and low crime rates or commercial developers who're looking to build an apartment complex in a zipcode that's doing good economically(Building Permits granted to a region are a good indicator of the economic health of a region). This tool could even be used by Restaurant/Small Business Owners who're looking to find investment opportunities to expand their business by a simple tweak of the 4 parameters according to their needs.
 
 ## The work so far- A Brief Summary
 A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+
+The work on the tool initially focused on predefined weights for different kinds of users to figure out what the best regions for investment according to their criteria were. This idea was easily discounted as the flexibility of the tool lied in the flexibility provided to the user to change the criteria according to their needs. Once that flexibility was achieved and the parameters that indirectly determined the Return on Investment was identified, all that was left to do was create compelling and easy to interpret visualizations that people could use without much training.
+
+Initially a crude map of Pittsburgh with circles of different sizes placed all over to indicate the Rank of a Zipcode was conceived. Since this was hard to interpret, it was replaced by a Heat Map of Pittsburgh with each ZipCode given a different shade of colour based on it's rank. From the initial diverging Red colour which was probably not suited for the color blind among us, I moved to a Blue-Orange diverging colour scheme that highlighted the most suitable zip codes with a dark orange/red that directly captures user attention.
+
+Other plots for the top 5 zip codes had to be kept basic so as to cater to a larger audience who might not be acquainted with stacked bar charts or alluvial diagrams or other not so common visualizations. Hence a simple and clear bar chart of the paramater values like House Prices and Building Permits was presented. A 1-D scatter plot of School Ratings and Crime Rates in each zip code also came about due to their simplicity and ease of understanding.
+
+Tableau was used to create all the visualizations and present a user-friendly interface where all the charts would be updated when the user changes the slider on any one of the parameters chosen. Tableau's embedded code also offers additional information about each zip code like it's rank and Realytics Index when you hover the mouse over it giving the user more power over the visualization. By giving the flexibility of changing the graph to the user and citing the data sources, I was thus able to create a very generalized tool. 
 
 ## Link to Final Data Story
 
@@ -39,7 +49,7 @@ Most home owners would like to invest in a low crime neighbourhood. This data wi
 [Crime Data](https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41cc-9099-cbc8a161924b)
 
 10- School Ratings:
-The 2019 School Rankings published by Niche is used to compute the school ratings. Most residential users value this attribute highly while trying to narrow downt their search to a zipcode. The rankings are extracted from the following link:
+The 2019 School Rankings published by Niche is used to compute the school ratings. Most residential users value this attribute highly while trying to narrow downt their search to a zipcode. The rankings are extracted from the following link:<br/>
 [School Ratings](https://www.niche.com/places-to-live/search/zip-codes-with-the-best-public-schools/m/pittsburgh-metro-area/)
 
 11- An Excel sheet that has combined all the data available from these sources is available below:<br/>
