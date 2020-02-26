@@ -63,7 +63,7 @@ The 2019 School Rankings published by Niche is used to compute the school rating
 
 15- Photo by [Vidar Nordli-Mathisen](https://unsplash.com/@vidarnm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pittsburgh-view?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) under an [Unsplash licence](https://unsplash.com/license)  
 
-[PART I- The Idea](/Realytics.md)<br>
+[PART  I- The Idea](/Realytics.md)<br>
 [PART II- Design & User Research](/Wireframe&Feedback.md)
 <br><br>
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
