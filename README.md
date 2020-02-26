@@ -1,19 +1,19 @@
 # Online Portfolio
 [1. The REALYTICS Project](https://carnegiemellon.shorthandstories.com/realytics/)
 
-[2. Controlling Color Exercise](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083419/Controlling.Color.pdf)
+[2. Critique & Redesign](/Critique&Redesign.md)
 
-[3. Crafting for Clarity](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177547/Crafting.for.Clarity.pdf)
+[3. Final Project- Behind the Scenes](/Realytics.md)
 
-[4. Choosing Chart Types](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177548/Choosing.Chart.Types.pdf)
+[4. OECD Data Visualization](/OECDDataVisualization.md)
 
 [5. Data Visualization Critique #1](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083587/Sachin.Kalayathankal.Sunny.-.Critique.1_.Economist.bar.chart.The.Good.Charts.Matrix.xlsx)
 
-[6. OECD Data Visualization](/OECDDataVisualization.md)
+[6. Choosing Chart Types](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177548/Choosing.Chart.Types.pdf)
 
-[7. Critique & Redesign](/Critique&Redesign.md)
+[7. Crafting for Clarity](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177547/Crafting.for.Clarity.pdf)
 
-[8. Final Project- Behind the Scenes](/Realytics.md)
+[8. Controlling Color Exercise](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083419/Controlling.Color.pdf)
 
 # About Me
 <img src="https://user-images.githubusercontent.com/56980097/72670390-d6707680-3a0a-11ea-89d9-3c61ea723e84.png" alt="drawing" width="150"/>
