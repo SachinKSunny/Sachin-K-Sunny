@@ -1,7 +1,19 @@
 # Online Portfolio
+[1. The REALYTICS Project](https://carnegiemellon.shorthandstories.com/realytics/)
 
-The link to my website for the course Telling Stories with Data is: 
-[Sachin K Sunny](https://sachinksunny.github.io/Sachin-K-Sunny/)
+[2. Controlling Color Exercise](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083419/Controlling.Color.pdf)
+
+[3. Crafting for Clarity](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177547/Crafting.for.Clarity.pdf)
+
+[4. Choosing Chart Types](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177548/Choosing.Chart.Types.pdf)
+
+[5. Data Visualization Critique #1](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083587/Sachin.Kalayathankal.Sunny.-.Critique.1_.Economist.bar.chart.The.Good.Charts.Matrix.xlsx)
+
+[6. OECD Data Visualization](/OECDDataVisualization.md)
+
+[7. Critique & Redesign](/Critique&Redesign.md)
+
+[8. Final Project- Behind the Scenes](/Realytics.md)
 
 # About Me
 <img src="https://user-images.githubusercontent.com/56980097/72670390-d6707680-3a0a-11ea-89d9-3c61ea723e84.png" alt="drawing" width="150"/>
@@ -14,21 +26,9 @@ Hi everyone, I am Sachin K Sunny and I use he/his pronouns. I am currently pursu
 
 <img src="https://user-images.githubusercontent.com/56980097/72670687-8c898f80-3a0e-11ea-9c8a-c1c020948d8d.png" alt="drawing" height="50"/> : [Sachin K Sunny](https://www.linkedin.com/in/sachinksunny/)
 
-
 # What I hope to learn
 Since I'll be using the power of data to guide, persuade and convince stakeholders in a project to make business decisions, I want to be able to make them see the impact any such decision would bring through impactful vizualisations. A picture is worth a thousand words and I want to be able to show the right picture and say the right thousand words that go with the picture to be a succesful Business Analyst.
 
-# Portfolio
-[1. Controlling Color Exercise](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083419/Controlling.Color.pdf)
-
-[2. Crafting for Clarity](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177547/Crafting.for.Clarity.pdf)
-
-[3. Choosing Chart Types](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177548/Choosing.Chart.Types.pdf)
-
-[4. Data Visualization Critique #1](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083587/Sachin.Kalayathankal.Sunny.-.Critique.1_.Economist.bar.chart.The.Good.Charts.Matrix.xlsx)
-
-[5. OECD Data Visualization](/OECDDataVisualization.md)
-
-[6. Critique & Redesign](/Critique&Redesign.md)
-
-[7. Final Project](/Realytics.md)
+# Website Link
+This website has been created for the course Telling Stories with Data and is available at: 
+[Sachin K Sunny](https://sachinksunny.github.io/Sachin-K-Sunny/)
