@@ -52,7 +52,7 @@ Most home owners would like to invest in a low crime neighbourhood. This data wi
 [Crime Data](https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41cc-9099-cbc8a161924b)
 
 5- School Ratings:
-The 2019 School Rankings published by Niche is used to compute the school ratings. Most residential users value this attribute highly while trying to narrow downt their search to a zipcode. The rankings are extracted from the following link:
+The 2019 School Rankings published by Niche is used to compute the school ratings. Most residential users value this attribute highly while trying to narrow downt their search to a zipcode. The rankings are extracted from the following link:<br/>
 [School Ratings](https://www.niche.com/places-to-live/search/zip-codes-with-the-best-public-schools/m/pittsburgh-metro-area/)
 
 An Excel sheet that has combined all the data available from these sources is available below:<br/>
