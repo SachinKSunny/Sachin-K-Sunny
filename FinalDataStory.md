@@ -1,12 +1,12 @@
 # Part III- Final Data Story
 
 ## Intended Audience
+
 This project came about because of the tunnel vision most people employ when it comes to making an investment decision. People often zero in on a Zip Code or a region and start scouting potential modes of investment before looking at the investment opportunities available across all the Regions. A generalised tool like Realytics that caters to a wide variety of audiences was challenging to come up with because of the difference in parameters that different users have while trying to find an investment option.
 
 But after extensive User research and scraping the internet for zip code wise data, I was able to create a customized visualization that caters to different kinds of users. This was achieved by identifying common themes across the intended audience and identifying variables that indirectly determine the return on Investment. By offering the user the flexibility to change the weights for all the parameters identified, they are able to look at and interpret a heat map of Pittsburgh based on their investment needs. Additional parameters like School Rating of a zip code was added in later as a response to the feedback received from an initial wireframe model of the Realytics tool. This tool could be used by residential users(home buyers/owners) who are looking for houses in Zipcodes where there are good schools and low crime rates or commercial developers who're looking to build an apartment complex in a zipcode that's doing good economically(Building Permits granted to a region are a good indicator of the economic health of a region). This tool could even be used by Restaurant/Small Business Owners who're looking to find investment opportunities to expand their business by a simple tweak of the 4 parameters according to their needs.
 
 ## The work so far- A Brief Summary
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
 The work on the tool initially focused on predefined weights for different kinds of users to figure out what the best regions for investment according to their criteria were. This idea was easily discounted as the flexibility of the tool lied in the flexibility provided to the user to change the criteria according to their needs. Once that flexibility was achieved and the parameters that indirectly determined the Return on Investment was identified, all that was left to do was create compelling and easy to interpret visualizations that people could use without much training.
 
