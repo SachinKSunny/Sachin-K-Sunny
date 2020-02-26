@@ -65,6 +65,6 @@ The final project will be delivered on Shorthand, an easy to use Website creator
 I will be using Tableau to generate the visualizations required for the various user types. Excel will be used to combine and clean the data. Once the wireframes have been critiqued by multiple users- hopefully by home owners, developers and small business owners, I will be incorporating their feedback into my final project and catering to the user base by creating visualizations that create the most impact for each type of user. Shorthand will also be used to generate the final presentation outline using certain picutres from the final site.
 
 [PART II- Design & User Research](/Wireframe&Feedback.md)<br>
-[PART III- Final Data Story](/FinalDataStory.md)
+[PART III- Final Data Story](/FinalDataStory.md)<br>
 
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
