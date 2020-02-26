@@ -182,5 +182,5 @@ No other suggestions from my end. I love the fact that you can play aorund with 
 
 <br><br>
 [PART I- The Idea](/Realytics.md)<br>
-[Part III: Final Data Story](/FinalDataStory.md)<br><br>
+[Part III- Final Data Story](/FinalDataStory.md)<br><br>
 [<-Go back to Main Page](https://sachinksunny.github.io/Sachin-K-Sunny/)
