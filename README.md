@@ -15,7 +15,7 @@
 
 [8. Controlling Color Exercise](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083419/Controlling.Color.pdf)
 
-[9. Custom Google Map](/CustomMap.html)
+<!---[9. Custom Google Map](/CustomMap.html)--->
 
 # About Me
 <img src="https://user-images.githubusercontent.com/56980097/72670390-d6707680-3a0a-11ea-89d9-3c61ea723e84.png" alt="drawing" width="150"/>
