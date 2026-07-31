@@ -39,8 +39,3 @@ My experiences, skill sets, and interests are listed below in no particular orde
 [7. Crafting for Clarity](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4177547/Crafting.for.Clarity.pdf)
 
 [8. Controlling Color Exercise](https://github.com/SachinKSunny/Sachin-K-Sunny/files/4083419/Controlling.Color.pdf)
-
-<!---[9. Custom Google Map](/CustomMap.html)--->
-
-# Website Link
-This website has been created for the course Telling Stories with Data and is available [here](https://sachinksunny.github.io/Sachin-K-Sunny/)
