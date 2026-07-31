@@ -21,7 +21,7 @@ My experiences, skill sets, and interests are listed below in no particular orde
 <img src="https://user-images.githubusercontent.com/56980097/72670687-8c898f80-3a0e-11ea-9c8a-c1c020948d8d.png" alt="drawing" height="50"/> : [Sachin K Sunny](https://www.linkedin.com/in/sachinksunny/)
 
 # Resume
-Sachin K Sunny(https://github.com/SachinKSunny/Sachin-K-Sunny/blob/master/Sachin%20K%20Sunny%20-%20Resume.pdf)
+[Sachin K Sunny](https://github.com/SachinKSunny/Sachin-K-Sunny/blob/master/Sachin%20K%20Sunny%20-%20Resume.pdf)
 
 # Online Portfolio
 [1. The REALYTICS Project](https://carnegiemellon.shorthandstories.com/realytics/)
